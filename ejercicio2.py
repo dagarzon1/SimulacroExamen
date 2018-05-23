@@ -14,5 +14,5 @@ plt.title("sin x")
 plt.xlabel("x")
 plt.ylabel("y")
 
-plt.savefig("1.png")
+plt.show()
 
